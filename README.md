@@ -10,9 +10,6 @@ This is a web application built using **Streamlit**, **OpenCV**, and **EasyOCR**
 - Display the detected number plate text along with bounding boxes.
 - Simple, interactive UI powered by Streamlit.
 
-## 📸 Demo
-
-![Demo](demo_screenshot.png)
 
 > Upload an image of a vehicle, click **Detect License Plate**, and see the magic!
 
