@@ -26,4 +26,6 @@ pip install torch torchvision torchaudio --index-url https://download.pytorch.or
 ```
 
 To run this code :
-'streamlit run app.py'
+```
+streamlit run app.py
+```
